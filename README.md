@@ -15,6 +15,9 @@ Therefore, cluster analysis can assist the segmentation of road accidents.
 ## About the Project:  
 This is a research based data analysis project in which we try to analyze a large data set not capable of being analyzed by typical database or data analysis software like Excel.  To overcome this, we try to implement distributed processing using Hadoop and pipe the result with Apache Zeppelin to analyze and visualize the data set and generate a decision tree. 
 
+## Motivation:
+In the developed as well as developing countries, Infrastructure development is one of the major investments by the government, while safety of passengers on roads is of utmost importance. A road optimization during the construction or during maintenance phase, requires that the engineers analyze all the parameters that play a crucial role in ensuring safety for the passengers and preventing accidents. One of the key objectives in accident data analysis is to identify the main factors associated with road accidents. 
+
 ## Tools required:
 ### Hardware Requirements:
 * Processor Type:  Intel Core I5-8250u CPU  
